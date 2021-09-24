@@ -1,4 +1,4 @@
-<# Project_PictureNameChange>
+# <Project_PictureNameChange>
 ## 프로그램 용도(Purpose of the program.)
 무작위 순서의 이미지들에 순차적인 번호를 부여하는 프로그램
 (This program gives sequential names to randomly named files)
