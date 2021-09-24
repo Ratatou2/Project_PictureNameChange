@@ -2,6 +2,7 @@
 ## 프로그램 용도(Purpose of the program.)
 무작위 순서의 이미지들에 순차적인 번호를 부여하는 프로그램
 (This program gives sequential names to randomly named files)
+
 ![image](https://user-images.githubusercontent.com/61686603/134671598-b98bb216-91f7-47b6-9a27-337a37335632.png)
 
 
