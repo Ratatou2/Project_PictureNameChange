@@ -17,7 +17,8 @@
 
 ## 사용법(How to use)
 ----
-![HOW TO USE](https://user-images.githubusercontent.com/61686603/134764944-efad448d-6403-4782-a996-b217670a5657.png)(https://blog.naver.com/ws4232/222039746417)
+[![BLOG](https://user-images.githubusercontent.com/61686603/134764944-efad448d-6403-4782-a996-b217670a5657.png)](https://blog.naver.com/ws4232/222039746417)
+
 
 **Frist** : 제일 먼저 파일을 실행시키고, 사진이 저장되어있는 파일 경로를 입력해주면 된다
 ``` python
