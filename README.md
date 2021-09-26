@@ -12,7 +12,7 @@
 - 확장자 별로 변경하고 싶을 경우(ex. jpg만 이름 변경)
 - 도저히 손으로 하나하나 파일명을 변경할 수 없을 때
 
-[전 후 비교 이미지 넣고]
+![image](https://user-images.githubusercontent.com/61686603/134800902-558b34ac-dc02-49b2-b72c-ca4661b54518.png)
 
 
 ## 사용법(How to use)
