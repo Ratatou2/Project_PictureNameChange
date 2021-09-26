@@ -1,7 +1,7 @@
 # [📚 Project] Picture_Name_Change 
 ---
 무작위 순서의 이미지들에 **순차적인 번호를 부여**하는 프로그램
-(This program **gives sequential names** to randomly named files)
+This program **gives sequential names** to randomly named files
 
 
 ## 특징(Features)
